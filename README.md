@@ -1,5 +1,5 @@
 # miRDrug
-miRDrug: Comprehensive Analysis of the Shared Genes Within miRNA-Drug Pairs Using Grouping, Scoring, and Modeling Approach
+# miRDrug: Comprehensive Analysis of the Shared Genes Within miRNA-Drug Pairs Using Grouping, Scoring, and Modeling Approach
                                   
  Emma Qumsiyeh1,  Burcu Bakir-Gungor2,   and  Malik Yousef3,4
 
