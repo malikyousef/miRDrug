@@ -5,9 +5,10 @@
 
 1Department of  Computer Science and Information Technology, Al-Quds University, Palestine
 2Department of Computer Engineering, Faculty of Engineering, Abdullah Gul University, Kayseri, Turkey
-3 Department of Information Systems, Zefat Academic College, Zefat, Israel
-4 Galilee Digital Health Research Center, Zefat Academic College, Zefat, Israel
-Corresponding authors:
+3Department of Information Systems, Zefat Academic College, Zefat, Israel
+4Galilee Digital Health Research Center, Zefat Academic College, Zefat, Israel
+
+# Corresponding authors:
 Malik Yousef: malik.yousef@gmail.com
 Emma Qumsiyeh: emma.qumsiyeh@hotmail.com
 
