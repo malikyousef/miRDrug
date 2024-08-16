@@ -32,6 +32,4 @@ Visit this [page](https://github.com/malikyousef/GediNET/blob/main/pages/outputs
 - You might [download](GDS4824.table) an example of such data named [GDS2545.table](GDS2545.table)<br>
 
 ## The  Pseudocode of miRDrug can seen over this [file](pages/Pseudocode.txt) 
-## miRDrug main workflow is: ##
 
-![alt text](https://github.com/malikyousef/GediNET/blob/main/images/GediNET_main.JPG?raw=true)
