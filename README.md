@@ -31,5 +31,5 @@ Visit this [page](https://github.com/malikyousef/GediNET/blob/main/pages/outputs
 - You need to configure the node “List Files/Folders” to point it to the folder that has the gene expression dataset in a table format (as described above)
 - You might [download](GDS4824.table) an example of such data named [GDS2545.table](GDS2545.table)<br>
 
-## The  Pseudocode of miRDrug can seen over this [file](pages/Pseudocode.txt) 
+## The  Pseudocode of miRDrug can seen over this [file](pages/Pseudocode)
 
