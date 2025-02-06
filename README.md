@@ -48,16 +48,27 @@ Rserve(args = "--vanilla")
 
 ## Knime Workflow
 By adhering to these environmental settings, errors will be effectively mitigated in this stable version of the workflow.
+
 •	List Files/Folders Node ("Node 479"): needs to give the path of the directory which contains data
+
 •	Table Reader ("Node 478"): finds the ".table" file in a given directory and reads those values and put it into a table.
+
 •	Table Reader ("Read miRNA data"): finds the ".table" file in a given directory and reads those values and put it into a table.
+
 •	Row Filter ("remove 5.0"): If there is other than a value except for two classes one needs to remove that value from the class column.
+
 •	MissingValues ("Node 477"): extracts missing values and converts required columns from strings to numbers.
+
 •	User Inputs: component including Number of Iteration, Output folder name, Group File Path, and Model parameters.
+
 •	Set Up Parameters ("Node 433"): component including the number of initial clusters, the initial number of genes, the label of the positive class, the number of iterations for internal rank, and reduction ratio parameters.
+
 •	Rank Functions Weights ("Node 434"): Component including accuracy, sensitivity, specificity, F-measure, AUC, and precision weights.
+
 •	Upload Groups File ("Node 466"): uploading grouping file which comes from the "User Inputs" component.
+
 •	G-S-M ("Node 468"): that G-S-M operations are made.
+
 •	Display Result ("Node510"): Component that results are visualized.
 
 ## Including Data Path
