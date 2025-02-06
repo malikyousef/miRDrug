@@ -114,5 +114,5 @@ The parameters in this component are used to establish the relative importance o
 
 
 
-![image](https://github.com/user-attachments/assets/3b3134ff-8d9e-407f-98b5-7500c6cd28cd)
+
 
